@@ -145,6 +145,7 @@ dd {
 .gallery {
     display: grid;
     grid-template-columns: repeat(6, 3fr);
+    grid-gap: 10px;
     gap: 10px;
 }
 
